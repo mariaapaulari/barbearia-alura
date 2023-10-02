@@ -9,3 +9,8 @@ body {
     p {
     text-align: center;
     }
+
+    #missao{
+        color:mediumvioletred;
+        font-size:18px;
+    }

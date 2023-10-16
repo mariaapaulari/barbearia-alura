@@ -14,3 +14,7 @@ body {
         color: rgb(199, 21, 51);
         font-size: 18px;
     }
+
+#banner{
+   width: :100%; 
+}

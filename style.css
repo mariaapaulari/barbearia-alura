@@ -1,4 +1,4 @@
-body {
+.principal{
     background: #CCCCCC;
     }
     
@@ -16,5 +16,17 @@ body {
     }
 
 #banner{
-   width: 100%; 
+   width: 100%;
+}
+
+.beneficios-titulo{
+    text-align: center;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.Beneficios{
+    background:hsl(0, 100%, 100%):
 }
